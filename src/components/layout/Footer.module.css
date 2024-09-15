@@ -1,0 +1,24 @@
+.footer {
+    background-color: #1a1a1a;
+    padding: 3em;
+    text-align: center;
+}
+
+.footerItens {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+}
+
+.footerItem a {
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 2rem;
+    transition: color 0.3s ease;
+}
+
+.footerItem a:hover {
+    color: aquamarine;
+}

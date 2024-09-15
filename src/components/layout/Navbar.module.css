@@ -1,0 +1,32 @@
+.logo{
+    width: 45px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: #1a1a1a;
+    padding: 1em;
+}
+
+.list{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+.item{
+    margin-right: 1em;
+}
+
+.item a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.item a:hover{
+    background-image: linear-gradient(to top, #009ee1, #00b8ed, #00d0e3, #00e4c6, #2af59a);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
