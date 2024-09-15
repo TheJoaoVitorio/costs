@@ -1,0 +1,17 @@
+.newProjectContainer{
+    width: 450px;
+    margin: 0 auto;
+    padding: 3em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.newProjectContainer h1{
+    margin-bottom: 0.5em;
+}
+
+.newProjectContainer p{
+    color: #3b3b3b;
+}
