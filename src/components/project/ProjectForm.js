@@ -5,7 +5,7 @@ import SubmitButton from '../form/SubmitButton'
 
 function ProjectForm( {btnText} ){
     return(
-        <form>
+        <form className={styles.form} >
             <Input
                 type='text'
                 text='Project name'
