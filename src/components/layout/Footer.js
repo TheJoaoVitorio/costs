@@ -2,6 +2,8 @@ import styles from './Footer.module.css'
 import { FaGithub, FaLinkedin, FaInstagram } from 'react-icons/fa'
 
 function Footer() {
+    // function Cli
+
     return (
         <footer className={styles.footer}>
             <ul className={styles.footerItens}>
