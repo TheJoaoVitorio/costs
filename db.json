@@ -1,21 +1,34 @@
 {
-    "projects" : [],
-    "categories":[
-        {
-            "id"  : 1,
-            "name": "Infra"
-        },
-        {
-            "id"  : 2,
-            "name": "Desenvolvimento"
-        },
-        {
-            "id"  : 3,
-            "name": "Design"
-        },
-        {
-            "id"  : 4,
-            "name": "Planejamento"
-        }
-    ]
+  "projects": [
+    {
+      "0": {},
+      "id": "e57b",
+      "name": "TechTitan Innovations",
+      "budget": "18000",
+      "categories": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
 }
